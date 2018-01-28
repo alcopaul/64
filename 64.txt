@@ -1,64 +1,64 @@
-0 - guillermo
-1 - helen
-2 - paul
-3 - syra
-4 - olena & chanteuse
-5 - shira
-6 - barack
-7 - frank
-8 - ladan
-9 - dmitri
-A - ariella
-B - jose
-C - mutya
-D - manuel
-E - kylie
-F - sanya
-G - daniel
-H - kathryn
-I - gertrudes
-J - vilma
-K - jabir
-L - laozi
-M - precious
-N - pepe
-O - joseph
-P - mary
-Q - christopher
-R - anthony
-S - catalina
-T - villaflor
-U - lorde
-V - sophie
-W - melquiades
-X - avelino
-Y - gottfried
-Z - isaac
-α - fernando
-β - john
-γ - iggy
-δ - jessie
-ε - natalie
-ϛ - emma
-ζ - peter
-η - andrew
-θ - andres
-ι - karl
-κ - karol
-λ - babatunde
-μ - ferdinand
-ν - erap
-ξ - fidel
-ο - mao
-π - hiroshi
-ϻ - arci 
-ϟ - coleen
-ρ - juday
-σ - andi
-τ - valerie
-υ - julia
-φ - solenn
-χ - janine
-ψ - kim
-ω - yeng
-ϡ - maja
+01 - 0 - guillermo
+02 - 1 - helen
+03 - 2 - paul
+04 - 3 - syra
+05 - 4 - olena & chanteuse
+06 - 5 - shira
+07 - 6 - barack
+08 - 7 - frank
+09 - 8 - ladan
+10 - 9 - dmitri
+11 - A - ariella
+12 - B - jose
+13 - C - mutya
+14 - D - manuel
+15 - E - kylie
+16 - F - sanya
+17 - G - daniel
+18 - H - kathryn
+19 - I - gertrudes
+20 - J - vilma
+21 - K - jabir
+22 - L - laozi
+23 - M - precious
+24 - N - pepe
+25 - O - joseph
+26 - P - mary
+27 - Q - christopher
+28 - R - anthony
+29 - S - catalina
+30 - T - villaflor
+31 - U - lorde
+32 - V - sophie
+33 - W - melquiades
+34 - X - avelino
+35 - Y - gottfried
+36 - Z - isaac
+37 - α - fernando
+38 - β - john
+39 - γ - iggy
+40 - δ - jessie
+41 - ε - natalie
+42 - ϛ - emma
+43 - ζ - peter
+44 - η - andrew
+45 - θ - andres
+46 - ι - karl
+47 - κ - karol
+48 - λ - babatunde
+49 - μ - ferdinand
+50 - ν - erap
+51 - ξ - fidel
+52 - ο - mao
+53 - π - hiroshi
+54 - ϻ - arci 
+55 - ϟ - coleen
+56 - ρ - juday
+57 - σ - andi
+58 - τ - valerie
+59 - υ - julia
+60 - φ - solenn
+61 - χ - janine
+62 - ψ - kim
+63 - ω - yeng
+64 - ϡ - maja
