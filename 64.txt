@@ -1,5 +1,4 @@
 01 - 0 - guillermo
-96 - a - chanteuse marie
 02 - 1 - helen
 03 - 2 - paul
 04 - 3 - syra
@@ -9,6 +8,7 @@
 08 - 7 - frank
 09 - 8 - ladan
 10 - 9 - dmitri
+96 - a - chanteuse marie
 11 - A - ariella
 12 - B - jose
 13 - C - mutya
@@ -52,7 +52,7 @@
 51 - ξ - fidel
 52 - ο - mao
 53 - π - hiroshi
-69 - ϻ - arci (ci [roman] - ar(115=100+15=4+15) | mi = e = 5 = S = 16
+69 - ϻ - arci
 54 - ϟ - coleen
 55 - ρ - juday
 56 - σ - andi
