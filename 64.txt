@@ -2,7 +2,7 @@
 02 - 1 - helen
 03 - 2 - paul
 04 - 3 - syra
-05 - 4 - olena
+05 - 4 - sofia
 06 - 5 - shira
 07 - 6 - barack
 08 - 7 - frank
